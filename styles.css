@@ -1,0 +1,27 @@
+  body {
+    background-color:#abf0e9;
+  }
+
+  hr {
+    border-style: none;
+    border-color: grey;
+    border-top-style:dashed;
+    width: 15%;
+    border-width: 5px;
+  }
+h1{
+
+  font-size: 50px;
+}
+
+img{
+    background-color: red;
+    background-size: cover;
+    border-color: blue;
+  }
+h2{
+  color: red;
+}
+p{
+  color: green;
+}
